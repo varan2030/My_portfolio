@@ -1,0 +1,12 @@
+
+.jumbotron {
+  background-color:rgb(209, 135, 45);
+  background-size: cover;
+  background-position: bottom;
+  box-shadow: 2px 4px 8px #999;
+  margin-top: 40px;
+}
+
+.display-4 { 
+  color:  rgb(48, 47, 102);
+}

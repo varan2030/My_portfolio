@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-color: rgb(232,241,248);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+}
+
+body { 
+  padding-top: 72px; 
+}
