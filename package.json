@@ -1,10 +1,10 @@
 {
-  "name": "clicky",
+  "name": "Porfolio",
   "version": "0.1.0",
   "private": false,
-  "author": "Steve Zinski",
+  "author": "Almaz Dolubaev",
   "license": "ISC",
-  "homepage": "http://szinski.github.io/clicky",
+  "homepage": "https://varan2030.github.io/My_portfolio/",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
     "npm": "^5.8.0",
